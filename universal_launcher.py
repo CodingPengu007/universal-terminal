@@ -5,8 +5,8 @@ import hashlib
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'programs'))
 
-from universal-systems.programs.calculator import calculate
-from universal-systems.system_programs.login_system import login_system, is_admin, signup, encrypt_password, user_data_folder
+from universal_systems.programs.calculator import calculate
+from universal_systems.system_programs.login_system import login_system, is_admin, signup, encrypt_password, user_data_folder
 
 def get_current_username(username):
     # Return the current username
