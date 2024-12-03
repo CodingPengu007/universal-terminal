@@ -1,0 +1,6 @@
+This is an small guide about the program and how it works, now we specially want to focus us on the setup of our Universal Terminal. So firstly, you download all the files from our Github (https://github.com/CodingPengu007/universal-terminal), they will apear in a ZIP file in your Downloades. So you have to unzip the whole thing with
+your favourite unzipping tool, on windows that could be 7ZIP  or something on Linux, it probably would be Ark. And because you are currently reading this, I would think you have done that correctly. So we can move on the next easy step, now you just have to run the universal_setup.py and the whole thing will build it self up.
+Now it's ready to use! - But there is still one big problem, we made this now all, but the first log in after the setup is still not working and it's useless. But when there is an other good coder out there that knows how python works, please help us fix these bugs, so we could make our first official release.
+
+This text got written on the 03.12.2024, so we are still in an very early alpha version of our program and we are still apresheating every feedback, bug report and specially bug fix!
+So sit back, relax and wait for the release, your Pengu
